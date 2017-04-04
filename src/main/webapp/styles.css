@@ -5,8 +5,12 @@ body {
     padding: 40px 15px;
     text-align: center;
 }
-* {
+/** {
     border-radius: 0 !important;
-}
+}*/
 
 .thumbnail img { min-height:300px; height:300px; }
+
+.spacer {
+    margin-top: 20px;
+}
